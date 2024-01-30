@@ -2,8 +2,6 @@
 <br />
 
 
-![IMG_1446 (1)](https://github.com/Felix-Mauyon/Felix-Mauyon/assets/102523109/06dc5f2a-c18f-4d5d-a98d-a88418202b20)
-
 I'm **Felix**, a Computer Science major at Kibo School of Technology, passionate about becoming a full-stack developer. The transformation of code into applications that influence people's lives fascinates me. Proficient in Python and Javascript, along with a frameworks like Flask. I'm currently collaborating with teammates on a web application that assists in finding temporary housing. Eager to embark on more exciting projects this year!
 <br />
 
