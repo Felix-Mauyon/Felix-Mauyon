@@ -2,7 +2,7 @@
 <br />
 
 
-I'm **Felix**, a Computer Science major at Kibo School of Technology with passion for programming. The transformation of code into applications that influence people's lives fascinates me. Proficient with HTML, CSS, Python and experienced with frameworks like Flask. Eager to embark on more exciting projects this year!
+I'm **Felix**, a Computer Science major at Kibo School of Technology with passion for programming. The transformation of code into applications that influence people's lives fascinates me. Proficient with HTML, CSS, Python and experienced with frameworks like Flask. Currently contributing to an Open Source project called Oppia. Eager to embark on more exciting projects this year!
 <br />
 
 ### Projects
