@@ -21,6 +21,8 @@ This is a mock portfolio website for a team of software engineers. The site is b
 - Microprocessor Simulation: This script simulates a microprocessor performing operations like add, mul, gt, or, nand, min, shift, and noop on integer inputs based on a given program. It processes each operation, outputs the result, and handles invalid operations gracefully. It was made with Python.
 <br />
 
+**P.S: The Log Analyzer, Directory Maintainer and Microprocessor Simulation are private projects from Kibo School of Technology**
+
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/felix-akojenu-510b81218/)
 - [Github](https://github.com/Felix-Mauyon)
