@@ -2,11 +2,20 @@
 <br />
 
 
-I'm **Felix**, a Computer Science major at Kibo School of Technology with passion for programming. The transformation of code into applications that influence people's lives fascinates me. Proficient with HTML, CSS, JavaScript and Python and experienced with frameworks like Flask. Just finished contributing to an Open Source project called Oppia and also learning React so I can build more exciting projects this year!
+I'm **Felix Akojenu**, an aspiring frontend developer with a Diploma in Computer Science from Kibo School of Technology. 
 <br />
+
+### Tools
+- HTML, CSS, JavaScript, Python, React, Git, Github
 
 ### Projects
 
+- [My Portfolio](https://felix-portfolio-lilac.vercel.app/): My portfolio
+  
+- [Investment Calculator](https://github.com/Felix-Mauyon/investment-calculator)
+
+- [Tic-Tac-Toe](https://tic-tac-toe-gilt-mu.vercel.app/): A Tic-Tac-Toe game built with React
+  
 - [Afrolodge](https://afrologde-com.onrender.com/): Afrologe is an app that aims to connects hosts who offer short-term accommodation options with travelers seeking accommodations. It was built with HTML, CSS and Python Flask
 
 - [BookShelf](https://bookshelf-mbnb.onrender.com): This app helps you manage your books, like a digital library. It provides the basic CRUD functionality that allows users to add, update, delete books.The app is built with Flask.
