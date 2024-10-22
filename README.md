@@ -10,7 +10,7 @@ I'm **Felix Akojenu**, an aspiring frontend developer with a Diploma in Computer
 
 ### Projects
 
-- [My Portfolio](https://felix-portfolio-lilac.vercel.app/): My portfolio
+- [My Portfolio](https://felix-portfolio-lilac.vercel.app/): This is my portfolio website. It's still under development with React.
   
 - [Investment Calculator](https://github.com/Felix-Mauyon/investment-calculator)
 
