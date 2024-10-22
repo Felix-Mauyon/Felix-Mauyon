@@ -17,6 +17,8 @@ I'm **Felix Akojenu**, an aspiring frontend developer with a Diploma in Computer
 - [Tic-Tac-Toe](https://tic-tac-toe-gilt-mu.vercel.app/): A Tic-Tac-Toe game built with React
   
 - [Afrolodge](https://afrologde-com.onrender.com/): Afrologe is an app that aims to connects hosts who offer short-term accommodation options with travelers seeking accommodations. It was built with HTML, CSS and Python Flask
+  
+- [Sea Crowd Funding](https://github.com/Felix-Mauyon/Sea-Crowd-Funding-project)
 
 - [BookShelf](https://bookshelf-mbnb.onrender.com): This app helps you manage your books, like a digital library. It provides the basic CRUD functionality that allows users to add, update, delete books.The app is built with Flask.
 
