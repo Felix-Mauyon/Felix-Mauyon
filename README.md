@@ -15,9 +15,9 @@ I'm **Felix Akojenu**, an aspiring frontend developer, and Python developer with
 - [Investment Calculator](https://github.com/Felix-Mauyon/investment-calculator)
 
 - [Tic-Tac-Toe](https://tic-tac-toe-gilt-mu.vercel.app/): A Tic-Tac-Toe game built with React
-- https://github.com/oppia/oppia/pull/20422 - This PR fixes a bug, The input field for the promo bar message on the release coordinator page was invisible. I worked on it to make it visible
+- https://github.com/oppia/oppia/pull/20422 : This PR fixes a bug, The input field for the promo bar message on the release coordinator page was invisible. I worked on it to make it visible
 
-- https://github.com/oppia/oppia/pull/20228—This was a feature request. The PR shifts rte-modal's save button to the outside of the translation box. This ensures that when users are in edit mode, they do not have to scroll down in the translation box to save the changes for a given translation while reviewing.
+- https://github.com/oppia/oppia/pull/20228 : This was a feature request. The PR shifts rte-modal's save button to the outside of the translation box. This ensures that when users are in edit mode, they do not have to scroll down in the translation box to save the changes for a given translation while reviewing.
   
 - [Sea Crowd Funding](https://github.com/Felix-Mauyon/Sea-Crowd-Funding-project)
 
