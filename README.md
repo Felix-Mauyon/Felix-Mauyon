@@ -2,11 +2,11 @@
 <br />
 
 
-I'm **Felix Akojenu**, an aspiring frontend developer, and Python developer with a Diploma in Computer Science from Kibo School of Technology. 
+I'm **Felix Akojenu**, a JavaScript and Python developer with a Diploma in Computer Science from Kibo School of Technology. 
 <br />
 
 ### Tools
-- HTML, CSS, JavaScript, Python, React, Git, Github
+- HTML, CSS, JavaScript, Python, React, Git, Github, ChatGPT
 
 ### Projects
 
